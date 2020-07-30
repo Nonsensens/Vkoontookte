@@ -5,7 +5,7 @@ const SET_SIDEBAR = "SET_SIDEBAR";
 
 let initialState = {
   initialized: false,
-  side: null
+  side: true
 };
 
 const appReducer = (state = initialState, action) => {
