@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Vkoontookte/static/css/main.8221992a.chunk.css",
+    "main.js": "/Vkoontookte/static/js/main.b7d5ef30.chunk.js",
+    "main.js.map": "/Vkoontookte/static/js/main.b7d5ef30.chunk.js.map",
+    "runtime-main.js": "/Vkoontookte/static/js/runtime-main.ac849d66.js",
+    "runtime-main.js.map": "/Vkoontookte/static/js/runtime-main.ac849d66.js.map",
+    "static/js/2.b01aae44.chunk.js": "/Vkoontookte/static/js/2.b01aae44.chunk.js",
+    "static/js/2.b01aae44.chunk.js.map": "/Vkoontookte/static/js/2.b01aae44.chunk.js.map",
+    "index.html": "/Vkoontookte/index.html",
+    "precache-manifest.9a34ab49eca44ffac200ff6143432424.js": "/Vkoontookte/precache-manifest.9a34ab49eca44ffac200ff6143432424.js",
+    "service-worker.js": "/Vkoontookte/service-worker.js",
+    "static/css/main.8221992a.chunk.css.map": "/Vkoontookte/static/css/main.8221992a.chunk.css.map",
+    "static/js/2.b01aae44.chunk.js.LICENSE.txt": "/Vkoontookte/static/js/2.b01aae44.chunk.js.LICENSE.txt",
+    "static/media/Spinner-1s-200px.svg": "/Vkoontookte/static/media/Spinner-1s-200px.7cbb439d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac849d66.js",
+    "static/js/2.b01aae44.chunk.js",
+    "static/css/main.8221992a.chunk.css",
+    "static/js/main.b7d5ef30.chunk.js"
+  ]
+}
